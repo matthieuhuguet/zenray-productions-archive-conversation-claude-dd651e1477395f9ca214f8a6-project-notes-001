@@ -828,3 +828,42 @@
 - Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/9c41cdcf-08d1-4a4b-8704-9a0cf6372d1e.jsonl. (4 October 2026, 11:21:56 +0200)
 
 > Need to read shelf/books.json. Find how saveJson accesses data (API). Let me look. (4 October 2026, 11:21:56 +0200)
+
+## 4 October 2026, 11:22:10 +0200 : Iteration
+
+<!-- feedback-event:f59973fd3edb95888063d8e431ae0bd158c9cadb0b9b9500863beb765c905f5b (4 October 2026, 11:22:10 +0200) -->
+- Project: conversation-claude-dd651e1477395f9ca214f8a6; kind: iteration. (4 October 2026, 11:22:10 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/9c41cdcf-08d1-4a4b-8704-9a0cf6372d1e.jsonl. (4 October 2026, 11:22:10 +0200)
+
+> My grep missed due to spaces/quotes. Use the same parsing as Client.mjs. (4 October 2026, 11:22:10 +0200)
+
+## 4 October 2026, 11:22:31 +0200 : Iteration
+
+<!-- feedback-event:9052fd7c0bdb1cc002df9ee1f09bba51d39fa231954c506a6d5f4ff953fbb477 (4 October 2026, 11:22:31 +0200) -->
+- Project: conversation-claude-dd651e1477395f9ca214f8a6; kind: iteration. (4 October 2026, 11:22:31 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/9c41cdcf-08d1-4a4b-8704-9a0cf6372d1e.jsonl. (4 October 2026, 11:22:31 +0200)
+
+> None of the three is present (220 books checked). Now fetch posters. (4 October 2026, 11:22:31 +0200)
+
+## 4 October 2026, 11:23:31 +0200 : Iteration
+
+<!-- feedback-event:572ebd20a3cda0a50d168a5af2a1b664c1f52776c3d0ce5c0e6b7995f4b8b34d (4 October 2026, 11:23:31 +0200) -->
+- Project: conversation-claude-dd651e1477395f9ca214f8a6; kind: iteration. (4 October 2026, 11:23:31 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/9c41cdcf-08d1-4a4b-8704-9a0cf6372d1e.jsonl. (4 October 2026, 11:23:31 +0200)
+
+> Tu n'avais aucun des trois livres dans ta Shelf : j'ai cherché leurs titres, leurs auteurs et leurs titres français parmi tes 220 livres, sans rien trouver. Je les ai donc ajoutés dans Books, avec le statut « en cours » et sans note. (4 October 2026, 11:23:31 +0200)
+>
+> | Carte | Affiche | (4 October 2026, 11:23:31 +0200)
+> |---|---| (4 October 2026, 11:23:31 +0200)
+> | Come As You Are - Emily Nagoski | [jsDelivr](https://cdn.jsdelivr.net/gh/matthieuhuguet/zenrayshards-img-124ff562adad@4d712a96a0d20768eb067baaee38cb1015574682/books-come-as-you-are-emily-nagoski-5a8c.jpg) | (4 October 2026, 11:23:31 +0200)
+> | The Seven Principles for Making Marriage Work - John Gottman | [jsDelivr](https://cdn.jsdelivr.net/gh/matthieuhuguet/zenrayshards-img-124ff562adad@d8acbef1a90ad6eda4ae579c201f4fad266c0cf7/books-the-seven-principles-for-making-marriage-w-8bc3.jpg) | (4 October 2026, 11:23:31 +0200)
+> | The Culture Map - Erin Meyer | [jsDelivr](https://cdn.jsdelivr.net/gh/matthieuhuguet/zenrayshards-img-124ff562adad@418ceaa71eebeed1b43d703f5ddac20a613c35df/books-the-culture-map-erin-meyer-ecca.jpg) | (4 October 2026, 11:23:31 +0200)
+>
+> J'ai relu ta liste en ligne après l'ajout : elle compte 223 livres, et chacun des trois a bien son affiche. J'ai regardé moi-même la couverture de Gottman, parce que l'image venait d'un blog, et c'est bien la bonne. (4 October 2026, 11:23:31 +0200)
+>
+> La recherche d'affiche du site en ligne ne trouve plus rien, pour aucun livre : il n'a pas de clé Google, et l'autre moteur qu'il utilise est bloqué chez Cloudflare. J'ai donc fait la recherche depuis ton Mac. Tant que ce n'est pas réparé, le bouton qui cherche une image sur le web dans la Shelf ne trouvera rien. (4 October 2026, 11:23:31 +0200)
+>
+> | Ce que tu voulais | Fait | Comment je le sais | (4 October 2026, 11:23:31 +0200)
+> |---|---|---| (4 October 2026, 11:23:31 +0200)
+> | Vérifier si tu avais déjà ces livres | Oui | Aucun des trois n'était dans tes 220 livres | (4 October 2026, 11:23:31 +0200)
+> | Les ajouter à ta Shelf | Oui | Ta liste en ligne relue : 223 livres, les trois y sont avec leur image | (4 October 2026, 11:23:31 +0200)
