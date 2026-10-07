@@ -1,0 +1,23 @@
+{
+ "schemaVersion": 1,
+ "projectId": "conversation-claude-dd651e1477395f9ca214f8a6",
+ "scannedAt": "2026-10-07T08:30:25.776Z",
+ "conversations": [
+  {
+   "projectId": "conversation-claude-dd651e1477395f9ca214f8a6",
+   "lines": 4,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-10-04T09:16:07.191Z",
+   "last": "2026-10-04T09:20:19.047Z",
+   "strength": "weak",
+   "conversationId": "claude:9c41cdcf-08d1-4a4b-8704-9a0cf6372d1e",
+   "provider": "claude",
+   "sessionId": "9c41cdcf-08d1-4a4b-8704-9a0cf6372d1e",
+   "title": "Livres sur la séduction et les relations",
+   "updatedAt": "2026-10-04T09:23:33.400Z",
+   "bytes": 20136,
+   "boundProject": "conversation-claude-dd651e1477395f9ca214f8a6"
+  }
+ ]
+}
